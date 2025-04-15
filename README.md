@@ -33,3 +33,5 @@ Name, Email, LastContacted, Notes
 Jane Doe, jane@example.comm 2024-12-15, Send product demo
 John Smith, john@example.com, 2025-01-10, Interested in package B
 
+## License
+MIT License
